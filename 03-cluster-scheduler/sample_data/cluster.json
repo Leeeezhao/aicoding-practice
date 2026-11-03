@@ -1,0 +1,5 @@
+{
+  "machines": 4,
+  "repair_minutes": 30,
+  "starve_threshold": 40
+}
